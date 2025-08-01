@@ -22,7 +22,7 @@
 - 🔹 [**Gamified Learning App for Kids**](#)  
   `HTML, CSS, JS` • Interactive platform to make learning fun for children.
 
-- 🔹 [**Breast Cancer Detection (CNN)**](#)  
+- 🔹 [**Breast Cancer Detection (CNN)**](https://colab.research.google.com/drive/1NbUCuW4j5Gp_WIVCfWc8vEwIkWKevvnL)  
   `Python, TensorFlow` • Deep learning model for binary classification using medical images.
 
 ---
