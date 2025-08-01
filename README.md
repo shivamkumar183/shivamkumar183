@@ -41,3 +41,20 @@
 - 📬 hshivamsourav183@gmail.com
 
 ---
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivamsourav183&show_icons=true&theme=github_dark" alt="Shivam's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamsourav183&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivamsourav183&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
