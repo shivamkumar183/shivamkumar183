@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Shivam Kumar!
+### 👋 Hi there, I'm Shivam Kumar
+
+Welcome to my GitHub! 
 
 🎓 B.Tech CSE (AI/ML) | 💻 Web Developer | 🤖 AI/ML Enthusiast  
 📍 Alliance University | 🏆 Hackathon Finalist | 📊 Math & Tech Educator
