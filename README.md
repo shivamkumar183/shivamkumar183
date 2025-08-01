@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shivam Kumar!
 
-<!--
-**shivamkumar183/shivamkumar183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) | 💻 Web Developer | 🤖 AI/ML Enthusiast  
+📍 Alliance University | 🏆 Hackathon Finalist | 📊 Math & Tech Educator
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+**Languages:** Java, Python, JavaScript, HTML, CSS  
+**Frameworks & Tools:** React, Node.js, PHP, MySQL, MongoDB  
+**Libraries:** NumPy, Pandas, TensorFlow, Matplotlib  
+**CS Fundamentals:** Data Structures and Algorithms, OS, DBMS, Networking  
+**Others:** Git, GitHub, VS Code
+
+---
+
+## 🔧 Projects
+
+- 🔹 [**Skiltell Exam Registration**](https://github.com/Shivamsourav183/skiltell-exam-registration)  
+  `PHP, MySQL` • Secure web app to manage student exam entries.
+
+- 🔹 [**Gamified Learning App for Kids**](#)  
+  `HTML, CSS, JS` • Interactive platform to make learning fun for children.
+
+- 🔹 [**Breast Cancer Detection (CNN)**](#)  
+  `Python, TensorFlow` • Deep learning model for binary classification using medical images.
+
+---
+
+## 🏅 Achievements
+
+- 🥇 CodeSangram Hackathon Finalist @ Alliance University  
+- ⚡ Winner of ML Blitz Challenge  
+- ✅ Internship @ Scale AI (Prompt Engineering)
+
+---
+
+## 📫 Let's Connect!
+
+- 🔗 [LinkedIn](www.linkedin.com/in/shivamkumar183)    
+- 📬 hshivamsourav183@gmail.com
+
+---
