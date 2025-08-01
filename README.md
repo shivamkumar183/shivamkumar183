@@ -29,8 +29,8 @@
 
 ## 🏅 Achievements
 
-- 🥇 CodeSangram Hackathon Finalist @ Alliance University  
-- ⚡ Winner of ML Blitz Challenge  
+- 🏆 Top 5 Finalist – CodeSangram Hackathon @ Alliance University 
+- 🥈 Participant & Certificate Holder – ML Blitz Challenge
 - ✅ Internship @ Scale AI (Prompt Engineering)
 
 ---
