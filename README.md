@@ -19,7 +19,7 @@
 - 🔹 [**Skiltell Exam Registration**](https://github.com/Shivamsourav183/skiltell-exam-registration)  
   `PHP, MySQL` • Secure web app to manage student exam entries.
 
-- 🔹 [**Gamified Learning App for Kids**](#)  
+- 🔹 [**Gamified Learning App for Kids**](https://github.com/shivamkumar183/GamifiedLearningAppForKids.git)  
   `HTML, CSS, JS` • Interactive platform to make learning fun for children.
 
 - 🔹 [**Breast Cancer Detection (CNN)**](https://colab.research.google.com/drive/1NbUCuW4j5Gp_WIVCfWc8vEwIkWKevvnL?usp=sharing)  
