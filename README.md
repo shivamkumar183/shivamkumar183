@@ -47,17 +47,17 @@
 ## 📊 GitHub Contributions & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamsourav183&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamkumar183&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsourav183&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar183&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamsourav183&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shivamkumar183&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamsourav183&theme=github-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamkumar183&theme=github-dark" alt="Contribution Graph" />
 </p>
