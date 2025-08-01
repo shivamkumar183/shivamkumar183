@@ -59,10 +59,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar183&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamkumar183&theme=algolia&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamkumar183&theme=algolia&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar183&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
+
 
