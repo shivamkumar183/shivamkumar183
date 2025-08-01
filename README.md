@@ -55,9 +55,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar183&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shivamkumar183&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar183&theme=github-dark&hide_border=true" alt="Contribution Graph" />
