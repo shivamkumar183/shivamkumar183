@@ -44,43 +44,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivamsourav183&show_icons=true&theme=github_dark" alt="Shivam's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamsourav183&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivamsourav183&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shivamsourav183&theme=github-dark" alt="Contribution Graph" />
-</p>
-
-
----
-
 ## 📊 GitHub Contributions & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivamsourav183&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamsourav183&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamsourav183&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsourav183&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivamsourav183&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=shivamsourav183&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shivamsourav183&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shivamsourav183&theme=github-dark" alt="Contribution Graph" />
 </p>
-
