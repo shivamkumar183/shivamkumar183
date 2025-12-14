@@ -6,7 +6,8 @@
 ---
 
 ## 🚀 Skills & Technologies
-**Languages:** Java, Python, JavaScript, HTML, CSS  
+Programming Languages: Java, Python, JavaScript  
+Web Technologies: HTML, CSS  
 **Frameworks & Tools:** React, Node.js, PHP, MySQL, MongoDB  
 **Libraries:** NumPy, Pandas, TensorFlow, Matplotlib  
 **CS Fundamentals:** Data Structures and Algorithms, OS, DBMS, Networking  
@@ -54,9 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar183&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamkumar183&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumar183&theme=github-dark&hide_border=true" alt="Contribution Graph" />
